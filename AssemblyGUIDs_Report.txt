@@ -1,0 +1,489 @@
+=== Assembly Definition GUIDs Report ===
+
+Assembly: DOTweenModules
+Path: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModules.asmdef
+GUID: bd4fecfcc26e042efb4cf11fd64d96e6
+
+Assembly: Unity.Addressables.Editor
+Path: Packages/com.unity.addressables/Editor/Unity.Addressables.Editor.asmdef
+GUID: 69448af7b92c7f342b298e06a37122aa
+
+Assembly: Unity.ResourceManager
+Path: Packages/com.unity.addressables/Runtime/ResourceManager/Unity.ResourceManager.asmdef
+GUID: 84651a3751eca9349aac36a66bba901b
+
+Assembly: Unity.Addressables
+Path: Packages/com.unity.addressables/Runtime/Unity.Addressables.asmdef
+GUID: 9e24947de15b9834991c9d8411ea37cf
+
+Assembly: Unity.Addressables.Editor.Tests.DocExampleCode
+Path: Packages/com.unity.addressables/Tests/Editor/DocExampleCode/Unity.Addressables.Editor.Tests.DocExampleCode.asmdef
+GUID: ff038353b1a72c54aa6b046914f56eb0
+
+Assembly: Unity.Addressables.Editor.Tests
+Path: Packages/com.unity.addressables/Tests/Editor/Unity.Addressables.Editor.Tests.asmdef
+GUID: f0c774e7dbab37641808f75bcc438e4a
+
+Assembly: Unity.ResourceManager.Tests
+Path: Packages/com.unity.addressables/Tests/Runtime/ResourceManager/Unity.ResourceManager.Tests.asmdef
+GUID: b1d1d33334b51724b9bc4457a3ebd9ee
+
+Assembly: Unity.Addressables.Runtime.Tests
+Path: Packages/com.unity.addressables/Tests/Runtime/Unity.Addressables.Runtime.Tests.asmdef
+GUID: 536993f12b814234a8f1d38fa0a1f35c
+
+Assembly: Unity.AI.Navigation.Editor.ConversionSystem
+Path: Packages/com.unity.ai.navigation/Editor/ConversionSystem/Unity.AI.Navigation.Editor.ConversionSystem.asmdef
+GUID: c57630adab7a340ec94f10e4fcac12f1
+
+Assembly: Unity.AI.Navigation.Editor
+Path: Packages/com.unity.ai.navigation/Editor/Unity.AI.Navigation.Editor.asmdef
+GUID: 86c9d8e67265f41469be06142c397d17
+
+Assembly: Unity.AI.Navigation.Updater
+Path: Packages/com.unity.ai.navigation/Editor/Updater/Unity.AI.Navigation.Updater.asmdef
+GUID: 1664e92176d434ccd902c1705fefe682
+
+Assembly: Unity.AI.Navigation
+Path: Packages/com.unity.ai.navigation/Runtime/Unity.AI.Navigation.asmdef
+GUID: 8c4dd21966739024fbd72155091d199e
+
+Assembly: Unity.AI.Navigation.Editor.Tests
+Path: Packages/com.unity.ai.navigation/Tests/Editor/Unity.AI.Navigation.Editor.Tests.asmdef
+GUID: 794824b4a8f003f47a92875e8342f790
+
+Assembly: Unity.AI.Navigation.LegacyOffMeshLink.Tests
+Path: Packages/com.unity.ai.navigation/Tests/Runtime/OffMeshLinkTests/Unity.AI.Navigation.LegacyOffMeshLink.Tests.asmdef
+GUID: 68d7ff144262c9148888e665efa8692c
+
+Assembly: Unity.AI.Navigation.Tests
+Path: Packages/com.unity.ai.navigation/Tests/Runtime/Unity.AI.Navigation.Tests.asmdef
+GUID: 455cd750f394b1c41b963b3335eae29c
+
+Assembly: Unity.AI.Navigation.Tests.EditorInPlaymode
+Path: Packages/com.unity.ai.navigation/Tests/VerifyEditorInPlaymode/Unity.AI.Navigation.Tests.EditorInPlaymode.asmdef
+GUID: 100055fbb0e2acd4a835038b0f7cd2f5
+
+Assembly: Amo_Dev.Editor
+Path: Packages/com.kizunamo.amo_dev/Editor/Amo_Dev.Editor.asmdef
+GUID: dc8ed6c758f6d4c028009109b109835d
+
+Assembly: UniTask.Editor
+Path: Packages/com.kizunamo.amo_dev/Plugins/UniTask/Editor/UniTask.Editor.asmdef
+GUID: 4129704b5a1a13841ba16f230bf24a57
+
+Assembly: UniTask.Addressables
+Path: Packages/com.kizunamo.amo_dev/Plugins/UniTask/Runtime/External/Addressables/UniTask.Addressables.asmdef
+GUID: 593a5b492d29ac6448b1ebf7f035ef33
+
+Assembly: UniTask.DOTween
+Path: Packages/com.kizunamo.amo_dev/Plugins/UniTask/Runtime/External/DOTween/UniTask.DOTween.asmdef
+GUID: 029c1c1b674aaae47a6841a0b89ad80e
+
+Assembly: UniTask.TextMeshPro
+Path: Packages/com.kizunamo.amo_dev/Plugins/UniTask/Runtime/External/TextMeshPro/UniTask.TextMeshPro.asmdef
+GUID: dc47925d1a5fa2946bdd37746b2b5d48
+
+Assembly: UniTask.Linq
+Path: Packages/com.kizunamo.amo_dev/Plugins/UniTask/Runtime/Linq/UniTask.Linq.asmdef
+GUID: 5c01796d064528144a599661eaab93a6
+
+Assembly: UniTask
+Path: Packages/com.kizunamo.amo_dev/Plugins/UniTask/Runtime/UniTask.asmdef
+GUID: f51ebe6a0ceec4240a699833d6309b23
+
+Assembly: ImprovedTimers
+Path: Packages/com.kizunamo.amo_dev/Plugins/Unity-Improved-Timers-master/Runtime/ImprovedTimers.asmdef
+GUID: 91d419664d8c89c4b8871250445a9bf5
+
+Assembly: Amo_Dev.Runtime
+Path: Packages/com.kizunamo.amo_dev/Runtime/Amo_Dev.Runtime.asmdef
+GUID: c8ad4709b68d849c389de7fe6f3b1e55
+
+Assembly: Unity.Burst.Editor
+Path: Packages/com.unity.burst/Editor/Unity.Burst.Editor.asmdef
+GUID: b75d3cd3037d383a8d1e2f9a26d73d8a
+
+Assembly: Unity.Burst
+Path: Packages/com.unity.burst/Runtime/Unity.Burst.asmdef
+GUID: 2665a8d13d1b3f18800f46e256720795
+
+Assembly: Unity.Burst.CodeGen
+Path: Packages/com.unity.burst/Unity.Burst.CodeGen/Unity.Burst.CodeGen.asmdef
+GUID: 9c6dda6c7922c624cb7ea9a7f1c7d54a
+
+Assembly: Unity.Cinemachine.Editor
+Path: Packages/com.unity.cinemachine/Editor/Unity.Cinemachine.Editor.asmdef
+GUID: ba8c092d026123a418fb4bfb797a7bd8
+
+Assembly: Unity.Cinemachine
+Path: Packages/com.unity.cinemachine/Runtime/Unity.Cinemachine.asmdef
+GUID: 4307f53044263cf4b835bd812fc161a4
+
+Assembly: DocCodeSamples.Tests
+Path: Packages/com.unity.collections/DocCodeSamples.Tests/DocCodeSamples.Tests.asmdef
+GUID: d1fecb7e41996c7468b18df518b721d9
+
+Assembly: Unity.Collections
+Path: Packages/com.unity.collections/Unity.Collections/Unity.Collections.asmdef
+GUID: e0cd26848372d4e5c891c569017e11f1
+
+Assembly: Unity.Collections.BurstCompatibilityGen
+Path: Packages/com.unity.collections/Unity.Collections.BurstCompatibilityGen/Unity.Collections.BurstCompatibilityGen.asmdef
+GUID: 4f5c0c83dfd6a0743834baba2b4de79e
+
+Assembly: Unity.Collections.CodeGen
+Path: Packages/com.unity.collections/Unity.Collections.CodeGen/Unity.Collections.CodeGen.asmdef
+GUID: 8baa6eabecd47164e94a1eb92b18f394
+
+Assembly: Unity.Collections.Editor
+Path: Packages/com.unity.collections/Unity.Collections.Editor/Unity.Collections.Editor.asmdef
+GUID: c668b7a00ffe56a498ddb1fc9f96f4e6
+
+Assembly: Unity.Collections.PerformanceTests
+Path: Packages/com.unity.collections/Unity.Collections.PerformanceTests/Unity.Collections.PerformanceTests.asmdef
+GUID: 64222b0d0713a412f92762e2fccd795a
+
+Assembly: Unity.Collections.Tests
+Path: Packages/com.unity.collections/Unity.Collections.Tests/Unity.Collections.Tests.asmdef
+GUID: ebbea1c70c20149eea64c53647a70872
+
+Assembly: Unity.Collections.Tests.Playmode
+Path: Packages/com.unity.collections/Unity.Collections.Tests.Playmode/Unity.Collections.Tests.Playmode.asmdef
+GUID: 5e96082520aa86a458e400b89afe93a4
+
+Assembly: DocCodeSamples
+Path: Packages/com.unity.inputsystem/DocCodeSamples.Tests/DocCodeSamples.asmdef
+GUID: 41b01d3964f844d8b43923c18b3a9a6f
+
+Assembly: InputSystemForUI
+Path: Packages/com.unity.inputsystem/InputSystem/Plugins/InputForUI/InputSystemForUI.asmdef
+GUID: 09dcc9c0126b6b34ab2a877b8f2277f5
+
+Assembly: Unity.InputSystem
+Path: Packages/com.unity.inputsystem/InputSystem/Unity.InputSystem.asmdef
+GUID: 75469ad4d38634e559750d17036d5f7c
+
+Assembly: Unity.InputSystem.IntegrationTests
+Path: Packages/com.unity.inputsystem/Tests/IntegrationTests/Unity.InputSystem.IntegrationTests.asmdef
+GUID: 3ae5734e49d646442ad24f37762ebdd2
+
+Assembly: Unity.InputSystem.TestFramework
+Path: Packages/com.unity.inputsystem/Tests/TestFixture/Unity.InputSystem.TestFramework.asmdef
+GUID: dc04f38471c3a459fb4d31124ee9127d
+
+Assembly: com.unity.ide.rider
+Path: Packages/com.unity.ide.rider/Rider/Editor/com.unity.ide.rider.asmdef
+GUID: d528c8c98d269ca44a06cd9624a03945
+
+Assembly: Unity.Mathematics.Tests
+Path: Packages/com.unity.mathematics/Tests/Unity.Mathematics.Tests.asmdef
+GUID: 904d80dccad704a3f95e42bd0ad5d960
+
+Assembly: Unity.Mathematics
+Path: Packages/com.unity.mathematics/Unity.Mathematics/Unity.Mathematics.asmdef
+GUID: d8b63aba1907145bea998dd612889d6b
+
+Assembly: Unity.Mathematics.Editor
+Path: Packages/com.unity.mathematics/Unity.Mathematics.Editor/Unity.Mathematics.Editor.asmdef
+GUID: 329b4ccd385744985bf3f83cfd77dfe7
+
+Assembly: Unity.Nuget.Mono-Cecil.EditorTests
+Path: Packages/com.unity.nuget.mono-cecil/Tests/Editor/Unity.Nuget.Mono-Cecil.EditorTests.asmdef
+GUID: aaf6804a66b394e9b8c133f80fc0c3e3
+
+Assembly: Unity.Multiplayer.Center.Common
+Path: Packages/com.unity.multiplayer.center/Common/Unity.Multiplayer.Center.Common.asmdef
+GUID: 84abd2ab34a74600a33a3bb9d72859fe
+
+Assembly: Unity.Multiplayer.Center.Editor
+Path: Packages/com.unity.multiplayer.center/Editor/Unity.Multiplayer.Center.Editor.asmdef
+GUID: be17709716f1648caa5de6d0c38103ed
+
+Assembly: Unity.Multiplayer.Center.Editor.Tests
+Path: Packages/com.unity.multiplayer.center/Tests/Editor/Unity.Multiplayer.Center.Editor.Tests.asmdef
+GUID: 787ec048daec145b580d1134da5dd278
+
+Assembly: Unity.Multiplayer.Center.Tests
+Path: Packages/com.unity.multiplayer.center/Tests/Runtime/Unity.Multiplayer.Center.Tests.asmdef
+GUID: 2664430aff4254d79887d32c3fc1e221
+
+Assembly: NaughtyAttributes.Core
+Path: Packages/com.dbrizov.naughtyattributes/Scripts/Core/NaughtyAttributes.Core.asmdef
+GUID: 776d03a35f1b52c4a9aed9f56d7b4229
+
+Assembly: NaughtyAttributes.Editor
+Path: Packages/com.dbrizov.naughtyattributes/Scripts/Editor/NaughtyAttributes.Editor.asmdef
+GUID: f88fb04354076c646a4107a491394033
+
+Assembly: NaughtyAttributes.Test
+Path: Packages/com.dbrizov.naughtyattributes/Scripts/Test/NaughtyAttributes.Test.asmdef
+GUID: df1dea26b8503004d92d621e88aa9421
+
+Assembly: NuGetForUnity
+Path: Packages/com.github-glitchenzo.nugetforunity/Editor/NuGetForUnity.asmdef
+GUID: d9149a4e0ef435c45b10905a79471258
+
+Assembly: Unity.PerformanceTesting.Editor
+Path: Packages/com.unity.test-framework.performance/Editor/Unity.PerformanceTesting.Editor.asmdef
+GUID: 9f843d4b38153f04b9cee0502d568525
+
+Assembly: Unity.PerformanceTesting
+Path: Packages/com.unity.test-framework.performance/Runtime/Unity.PerformanceTesting.asmdef
+GUID: c0dd0d10738d4ad4a9de57c559d0ca1b
+
+Assembly: KBCore.Refs
+Path: Packages/com.kylewbanks.scenerefattribute/KBCore.Refs.asmdef
+GUID: 33759803a11f4d538227861a78aba30b
+
+Assembly: Unity.ScriptableBuildPipeline.Editor
+Path: Packages/com.unity.scriptablebuildpipeline/Editor/Unity.ScriptableBuildPipeline.Editor.asmdef
+GUID: c5ecc461727906345a35491a0440694f
+
+Assembly: Unity.ScriptableBuildPipeline
+Path: Packages/com.unity.scriptablebuildpipeline/Runtime/Unity.ScriptableBuildPipeline.asmdef
+GUID: 5c1ff9bd975acec488150743d53a93ca
+
+Assembly: Unity.ScriptableBuildPipeline.Editor.Tests
+Path: Packages/com.unity.scriptablebuildpipeline/Tests/Editor/Unity.ScriptableBuildPipeline.Editor.Tests.asmdef
+GUID: 0244ca4987514734a84f74195d54113d
+
+Assembly: Unity.ScriptableBuildPipelineTests.Runtime.Tests
+Path: Packages/com.unity.scriptablebuildpipeline/Tests/Runtime/TestAssets/Unity.ScriptableBuildPipelineTests.Runtime.Tests.asmdef
+GUID: b3d0096afb8b48f4c88de2672cc76462
+
+Assembly: Unity.ScriptableBuildPipeline.Tests
+Path: Packages/com.unity.scriptablebuildpipeline/Tests/Runtime/Unity.ScriptableBuildPipeline.Tests.asmdef
+GUID: adbcba91892774149bea528141373ca2
+
+Assembly: Unity.RenderPipelines.Core.Editor
+Path: Packages/com.unity.render-pipelines.core/Editor/Unity.RenderPipelines.Core.Editor.asmdef
+GUID: 3eae0364be2026648bf74846acb8a731
+
+Assembly: Unity.RenderPipelines.Core.Editor.Shared
+Path: Packages/com.unity.render-pipelines.core/Editor-PrivateShared/Unity.RenderPipelines.Core.Editor.Shared.asmdef
+GUID: 2a69708d171a17043a9d0ad45f205cfe
+
+Assembly: Unity.RenderPipelines.GPUDriven.Runtime
+Path: Packages/com.unity.render-pipelines.core/Runtime/GPUDriven/Unity.RenderPipelines.GPUDriven.Runtime.asmdef
+GUID: 4fd6538c1c56b409fb53fdf0183170ec
+
+Assembly: Unity.RenderPipelines.Core.Runtime
+Path: Packages/com.unity.render-pipelines.core/Runtime/Unity.RenderPipelines.Core.Runtime.asmdef
+GUID: df380645f10b7bc4b97d4f5eb6303d95
+
+Assembly: Unity.RenderPipelines.Core.Runtime.Shared
+Path: Packages/com.unity.render-pipelines.core/Runtime-PrivateShared/Unity.RenderPipelines.Core.Runtime.Shared.asmdef
+GUID: 69257879134bba646869b21467b3338d
+
+Assembly: Unity.RenderPipelines.Core.ShaderLibrary
+Path: Packages/com.unity.render-pipelines.core/ShaderLibrary/Unity.RenderPipelines.Core.ShaderLibrary.asmdef
+GUID: 46a67ded66a63de48b9329c593fc08de
+
+Assembly: Unity.RenderPipelines.Core.Editor.Tests
+Path: Packages/com.unity.render-pipelines.core/Tests/Editor/Unity.RenderPipelines.Core.Editor.Tests.asmdef
+GUID: 6e5480588ffa37d4f82fe96c45e8ce9c
+
+Assembly: Unity.RenderPipelines.Core.Runtime.Tests
+Path: Packages/com.unity.render-pipelines.core/Tests/Runtime/Unity.RenderPipelines.Core.Runtime.Tests.asmdef
+GUID: bf043f86dbf1bda4398ec83eebe40b8c
+
+Assembly: Unity.Searcher.Editor
+Path: Packages/com.unity.searcher/Editor/Unity.Searcher.Editor.asmdef
+GUID: 4988cf9794f41d64c884876ab6574b89
+
+Assembly: Unity.Searcher.EditorTests
+Path: Packages/com.unity.searcher/Tests/Editor/Unity.Searcher.EditorTests.asmdef
+GUID: 432b70115e987f44abb984cfe7de384f
+
+Assembly: Unity.Settings.Editor
+Path: Packages/com.unity.settings-manager/Editor/Unity.Settings.Editor.asmdef
+GUID: 49818357e697641afb75d2f8acaf1861
+
+Assembly: Unity.Settings.Editor.Tests
+Path: Packages/com.unity.settings-manager/Tests/Editor/Unity.Settings.Editor.Tests.asmdef
+GUID: b8c9b6a82a342504c8e4a2747471d23c
+
+Assembly: Unity.ShaderGraph.Editor
+Path: Packages/com.unity.shadergraph/Editor/Unity.ShaderGraph.Editor.asmdef
+GUID: be0903cd8e1546f498710afdc59db5eb
+
+Assembly: Unity.ShaderGraph.Utilities
+Path: Packages/com.unity.shadergraph/Editor/Utilities/Unity.ShaderGraph.Utilities.asmdef
+GUID: ade7125e800904674ba0c115208f7ed5
+
+Assembly: Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary
+Path: Packages/com.unity.shadergraph/ShaderGraphLibrary/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.asmdef
+GUID: de1079f91ae5b43499b7c7e4f1269884
+
+Assembly: Unity.ShaderGraph.Editor.Tests
+Path: Packages/com.unity.shadergraph/Tests/Editor/Unity.ShaderGraph.Editor.Tests.asmdef
+GUID: bf9b048907d0a604eab6a5552630c26d
+
+Assembly: Unity.Splines.Editor
+Path: Packages/com.unity.splines/Editor/Unity.Splines.Editor.asmdef
+GUID: e43142fc3fec6554980dde6126631f1d
+
+Assembly: Unity.Splines
+Path: Packages/com.unity.splines/Runtime/Unity.Splines.asmdef
+GUID: 21d1eb854b91ade49bc69a263d12bee2
+
+Assembly: TestNewCustomAssembly
+Path: Packages/com.unity.test-framework/Tests/TestNewCustomAssembly/TestNewCustomAssembly.asmdef
+GUID: 005d90528beb64e71b011a6207806ed5
+
+Assembly: UnityEditor.TestRunner
+Path: Packages/com.unity.test-framework/UnityEditor.TestRunner/UnityEditor.TestRunner.asmdef
+GUID: 0acc523941302664db1f4e527237feb3
+
+Assembly: UnityEngine.TestRunner
+Path: Packages/com.unity.test-framework/UnityEngine.TestRunner/UnityEngine.TestRunner.asmdef
+GUID: 27619889b8ba8c24980f49ee34dbb44a
+
+Assembly: DocCodeExamples
+Path: Packages/com.unity.timeline/DocCodeExamples/DocCodeExamples.asmdef
+GUID: 9550f6b9c1ac87345a996c43f204fb30
+
+Assembly: Unity.Timeline.Editor
+Path: Packages/com.unity.timeline/Editor/Unity.Timeline.Editor.asmdef
+GUID: 02f771204943f4a40949438e873e3eff
+
+Assembly: Unity.Timeline
+Path: Packages/com.unity.timeline/Runtime/Unity.Timeline.asmdef
+GUID: f06555f75b070af458a003d92f9efb00
+
+Assembly: Unity.Rendering.LightTransport.Editor
+Path: Packages/com.unity.rendering.light-transport/Editor/Unity.Rendering.LightTransport.Editor.asmdef
+GUID: 085cb502223da8f46931abfa47535112
+
+Assembly: Unity.Rendering.LightTransport.Runtime
+Path: Packages/com.unity.rendering.light-transport/Runtime/Unity.Rendering.LightTransport.Runtime.asmdef
+GUID: 214c0945bb158c940aada223f3223ee8
+
+Assembly: Unity.Rendering.LightTransport.Editor.Tests
+Path: Packages/com.unity.rendering.light-transport/Tests/Editor/Unity.Rendering.LightTransport.Editor.Tests.asmdef
+GUID: e5e50a3b09629a04481c55f78926a9cb
+
+Assembly: Unity.Profiling.Core
+Path: Packages/com.unity.profiling.core/Runtime/Unity.Profiling.Core.asmdef
+GUID: b46779583a009f04ba9f5f31d0e7e6ac
+
+Assembly: Unity.TextMeshPro.Editor
+Path: Packages/com.unity.ugui/Editor/TMP/Unity.TextMeshPro.Editor.asmdef
+GUID: 6546d7765b4165b40850b3667f981c26
+
+Assembly: UnityEditor.UI
+Path: Packages/com.unity.ugui/Editor/UGUI/UnityEditor.UI.asmdef
+GUID: 343deaaf83e0cee4ca978e7df0b80d21
+
+Assembly: Unity.TextMeshPro
+Path: Packages/com.unity.ugui/Runtime/TMP/Unity.TextMeshPro.asmdef
+GUID: 6055be8ebefd69e48b49212b09b47b2f
+
+Assembly: UnityEngine.UI
+Path: Packages/com.unity.ugui/Runtime/UGUI/UnityEngine.UI.asmdef
+GUID: 2bafac87e7f4b9b418d9448d219b01ab
+
+Assembly: Unity.TextMeshPro.Editor.Tests
+Path: Packages/com.unity.ugui/Tests/Editor/TMP/Unity.TextMeshPro.Editor.Tests.asmdef
+GUID: 656e461844099ae43a609ff6109b0877
+
+Assembly: UnityEditor.UI.EditorTests
+Path: Packages/com.unity.ugui/Tests/Editor/UGUI/UnityEditor.UI.EditorTests.asmdef
+GUID: 7c04f0dfa9243c04681a55d90d3ff3fc
+
+Assembly: Unity.TextMeshPro.Tests
+Path: Packages/com.unity.ugui/Tests/Runtime/TMP/Unity.TextMeshPro.Tests.asmdef
+GUID: bb05cab7d802aa5468f8f2f86840d984
+
+Assembly: UnityEngine.UI.Tests
+Path: Packages/com.unity.ugui/Tests/Runtime/UGUI/UnityEngine.UI.Tests.asmdef
+GUID: e9745f6a32442194c8dc5a43e9ab86f9
+
+Assembly: Unity.PlasticSCM.Editor.Entities
+Path: Packages/com.unity.collab-proxy/Editor/Entities/Unity.PlasticSCM.Editor.Entities.asmdef
+GUID: c24d342672367b243aff1910ea83a56d
+
+Assembly: Unity.CollabProxy.Editor
+Path: Packages/com.unity.collab-proxy/Editor/Toolbar/Unity.CollabProxy.Editor.asmdef
+GUID: 17b36165d09634a48bf5a0e4bb27f4bd
+
+Assembly: Unity.PlasticSCM.Editor
+Path: Packages/com.unity.collab-proxy/Editor/Unity.PlasticSCM.Editor.asmdef
+GUID: 4b84427fd7ace4b4cb623ef8a46124ed
+
+Assembly: PPv2ToURPConvertersDefinition
+Path: Packages/com.unity.render-pipelines.universal/Editor/Converter/PPv2/PPv2ToURPConvertersDefinition.asmdef
+GUID: 3fa284cf2189b184e8d506b83da68377
+
+Assembly: Unity.RenderPipelines.Universal.Editor
+Path: Packages/com.unity.render-pipelines.universal/Editor/Unity.RenderPipelines.Universal.Editor.asmdef
+GUID: c579267770062bf448e75eb160330b7f
+
+Assembly: Unity.RenderPipelines.Universal.2D.Runtime
+Path: Packages/com.unity.render-pipelines.universal/Runtime/2D/Unity.RenderPipelines.Universal.2D.Runtime.asmdef
+GUID: 516a5277b8c3b4f4c8cc86b77b1591ff
+
+Assembly: Unity.RenderPipelines.Universal.Runtime
+Path: Packages/com.unity.render-pipelines.universal/Runtime/Unity.RenderPipelines.Universal.Runtime.asmdef
+GUID: 15fc0a57446b3144c949da3e2b9737a9
+
+Assembly: Unity.RenderPipelines.Universal.ShaderLibrary
+Path: Packages/com.unity.render-pipelines.universal/ShaderLibrary/Unity.RenderPipelines.Universal.ShaderLibrary.asmdef
+GUID: ab67fb10353d84448ac887a7367cbda8
+
+Assembly: Unity.RenderPipelines.Universal.Shaders
+Path: Packages/com.unity.render-pipelines.universal/Shaders/Unity.RenderPipelines.Universal.Shaders.asmdef
+GUID: b4517ec124862cb4bb3b8b27d72843a6
+
+Assembly: Unity.RenderPipelines.Universal.Editor.Tests
+Path: Packages/com.unity.render-pipelines.universal/Tests/Editor/Unity.RenderPipelines.Universal.Editor.Tests.asmdef
+GUID: 36d514892e55d4340b470c29fcab8b44
+
+Assembly: Unity.RenderPipelines.Universal.Runtime.Tests
+Path: Packages/com.unity.render-pipelines.universal/Tests/Runtime/Unity.RenderPipelines.Universal.Runtime.Tests.asmdef
+GUID: bc3b0daec27db604caf7fec37e54bf6d
+
+Assembly: Unity.RenderPipelines.Universal.Config.Runtime
+Path: Packages/com.unity.render-pipelines.universal-config/Runtime/Unity.RenderPipelines.Universal.Config.Runtime.asmdef
+GUID: 86bc95e6fdb13ff43aa04316542905ae
+
+Assembly: Unity.RenderPipelines.Universal.Config.Editor.Tests
+Path: Packages/com.unity.render-pipelines.universal-config/Tests/Editor/Unity.RenderPipelines.Universal.Config.Editor.Tests.asmdef
+GUID: 71747feda1cfa634686086b1914eacb6
+
+Assembly: Unity.VisualScripting.SettingsProvider.Editor
+Path: Packages/com.unity.visualscripting/Editor/SettingsProvider/Unity.VisualScripting.SettingsProvider.Editor.asmdef
+GUID: 2aa54ddaa48744e1caddee916e39805e
+
+Assembly: Unity.VisualScripting.Core.Editor
+Path: Packages/com.unity.visualscripting/Editor/VisualScripting.Core/Unity.VisualScripting.Core.Editor.asmdef
+GUID: 54cb1906aeb4e4264bc1d2aa3818a43f
+
+Assembly: Unity.VisualScripting.Flow.Editor
+Path: Packages/com.unity.visualscripting/Editor/VisualScripting.Flow/Unity.VisualScripting.Flow.Editor.asmdef
+GUID: 23f3c6063e13e4fd9addce3606ff4e42
+
+Assembly: Unity.VisualScripting.Shared.Editor
+Path: Packages/com.unity.visualscripting/Editor/VisualScripting.Shared/Unity.VisualScripting.Shared.Editor.asmdef
+GUID: 8461334e883c84d819a008a46143a5ad
+
+Assembly: Unity.VisualScripting.State.Editor
+Path: Packages/com.unity.visualscripting/Editor/VisualScripting.State/Unity.VisualScripting.State.Editor.asmdef
+GUID: f10496e9d78b943308af5e7e9e4543c8
+
+Assembly: Unity.VisualScripting.Core
+Path: Packages/com.unity.visualscripting/Runtime/VisualScripting.Core/Unity.VisualScripting.Core.asmdef
+GUID: 21b0c8d1703a94250bfac916590cea4f
+
+Assembly: Unity.VisualScripting.Flow
+Path: Packages/com.unity.visualscripting/Runtime/VisualScripting.Flow/Unity.VisualScripting.Flow.asmdef
+GUID: ea715009a4efd4c6cbc85be3ae097dd3
+
+Assembly: Unity.VisualScripting.State
+Path: Packages/com.unity.visualscripting/Runtime/VisualScripting.State/Unity.VisualScripting.State.asmdef
+GUID: 315d634a9ac6d460a9515f5a56be6311
+
+Assembly: com.unity.ide.visualstudio
+Path: Packages/com.unity.ide.visualstudio/Editor/com.unity.ide.visualstudio.asmdef
+GUID: b93f844d45cfcc44fa2b0eed5c9ec6bb
