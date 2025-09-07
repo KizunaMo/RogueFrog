@@ -829,7 +829,7 @@ PlayerSettings:
     PS4: DOTWEEN
     PS5: DOTWEEN
     QNX: DOTWEEN
-    Standalone: DOTWEEN;UNITASK_DOTWEEN_SUPPORT;EnableLogging;DevelopmentBuild
+    Standalone: DOTWEEN;UNITASK_DOTWEEN_SUPPORT;EnableLogging;DevelopmentBuild;ADDRESSABLES_LOG_ALL;AMO_DEV_ENABLED
     VisionOS: DOTWEEN
     WebGL: DOTWEEN
     Windows Store Apps: DOTWEEN
