@@ -1,5 +1,8 @@
-# Roguelike Frog
+# Roguelite Frog
 [![版本](https://img.shields.io/badge/版本-1.0.0-blue)](#)
+[![Unity](https://img.shields.io/badge/Unity-6%2B-blue?style=flat-square&logo=unity)](https://unity3d.com/)
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue?style=flat-square)](https://github.com/KizunaMo/RogueFrog/blob/master/LICENSE.md)
+[![ChangeLog](https://img.shields.io/badge/Log-blue?style=flat-square)](https://github.com/KizunaMo/RogueFrog/blob/master/CHANGELOG.md)
 
 ## 🎯 Features
 - Mobile game (iOS/Android)
@@ -16,11 +19,4 @@
     - Design levels and roguelike elements
     - Integrate ads and testing pipeline
 
----
-
-# 🐸 GuaGua
-### License
-MIT License - see [LICENSE](LICENSE.md) for details.
-### Support
-For issues and feature requests, please use the [GitHub Issues](https://github.com/KizunaMo/RogueFrog/issues) page.
 ---
